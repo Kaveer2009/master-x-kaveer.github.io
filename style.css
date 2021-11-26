@@ -52,6 +52,7 @@ body{
 }
 .menu a:hover{
   color:rgb(255, 251, 1);
+  transition: 0.3s;
 }
 #about{
   text-align: center;
